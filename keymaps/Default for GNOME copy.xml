@@ -1,0 +1,32 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f9" />
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="shift alt comma" />
+    <mouse-shortcut keystroke="alt button3" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift ctrl alt period" />
+  </action>
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="shift alt period" />
+  </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt 8" />
+    <mouse-shortcut keystroke="shift control alt button1" />
+    <mouse-shortcut keystroke="alt button1" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="hg4idea.QFold" />
+</keymap>
