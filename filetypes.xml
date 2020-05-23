@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="test/first" type="JavaScript" />
       <mapping pattern="extractKey" type="JavaScript" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="tml" type="YAML" />
     </extensionMap>
   </component>
