@@ -7,12 +7,23 @@
     <keyboard-shortcut first-keystroke="shift alt comma" />
     <mouse-shortcut keystroke="alt button3" />
   </action>
+  <action id="DecreaseColumnWidth" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="EditorNextWordWithSelection" />
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="EditorPreviousWordWithSelection" />
+  <action id="IncreaseColumnWidth" />
+  <action id="IncrementWindowWidth" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
   </action>
@@ -28,5 +39,7 @@
     <mouse-shortcut keystroke="alt button1" />
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
   <action id="hg4idea.QFold" />
 </keymap>
