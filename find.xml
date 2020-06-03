@@ -5,10 +5,11 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.XML</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.jsp</mask>
+    <mask>*.js</mask>
   </component>
 </application>

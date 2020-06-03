@@ -1,0 +1,6 @@
+<application>
+  <component name="VisualVMLauncher">
+    <option name="jdkHome" value="$USER_HOME$/.jdks/corretto-1.8.0_252" />
+    <option name="visualVmExecutable" value="C:/dev/bin/visualvm_142/bin/visualvm.exe" />
+  </component>
+</application>
