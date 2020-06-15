@@ -4,6 +4,7 @@
       <mapping pattern="test/first" type="JavaScript" />
       <mapping pattern="extractKey" type="JavaScript" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="generate-command" type="PLAIN_TEXT" />
       <mapping ext="tml" type="YAML" />
     </extensionMap>
   </component>
