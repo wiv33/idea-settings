@@ -2,5 +2,6 @@
   <component name="NotificationConfiguration">
     <notification groupId="Database queries that took much time" displayType="NONE" />
     <notification groupId="Indexing" />
+    <notification groupId="Material Theme Notifications" displayType="NONE" />
   </component>
 </application>
