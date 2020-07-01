@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Database queries that took much time" displayType="NONE" />
+    <notification groupId="Indexing" />
+  </component>
+</application>
