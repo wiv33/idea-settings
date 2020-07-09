@@ -8,6 +8,7 @@
       <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="generate-command" type="PLAIN_TEXT" />
+      <mapping pattern="hello" type="Vue.js" />
       <mapping ext="tml" type="YAML" />
     </extensionMap>
   </component>
