@@ -1,0 +1,14 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/chai" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/mocha" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
