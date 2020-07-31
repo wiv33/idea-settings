@@ -1,12 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="test/first" type="JavaScript" />
       <mapping pattern="extractKey" type="JavaScript" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="test/first" type="JavaScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="generate-command" type="PLAIN_TEXT" />
+      <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping pattern="todo-list" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping pattern="hello" type="Vue.js" />
       <mapping ext="tml" type="YAML" />
     </extensionMap>
   </component>
