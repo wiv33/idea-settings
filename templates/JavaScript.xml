@@ -1,5 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="cgroup" value="console.group($CONTEXT$)&#10;&#10;console.log($END$)&#10;&#10;console.groupEnd()" description="console.group()" toReformat="false" toShortenFQNames="true">
+  <template name="cgroup" value="console.group($CONTEXT$)&#10;&#10;console.info($END$)&#10;&#10;console.groupEnd()" description="console.group()" toReformat="false" toShortenFQNames="true">
     <variable name="CONTEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
