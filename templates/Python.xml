@@ -1,0 +1,7 @@
+<templateSet group="Python">
+  <template name="imml" value="import tensorflow as tf&#10;import pandas as pd&#10;import numpy as np" description="import tf pd np" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
