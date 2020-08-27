@@ -1,7 +1,7 @@
 <templateSet group="Java">
-  <template name="test" value="  @org.junit.jupiter.api.Test&#10;  @org.junit.jupiter.api.DisplayName(&quot;$Description$&quot;)&#10;  void $METHOD_NAME$() {&#10;    $END$&#10;    $BODY$&#10;  }" description="junit5 test method" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <variable name="Description" expression="" defaultValue="&quot;test should be&quot;" alwaysStopAt="true" />
-    <variable name="METHOD_NAME" expression="camelCase(Description)" defaultValue="&quot;methodName&quot;" alwaysStopAt="true" />
+  <template name="test" value="  @org.junit.jupiter.api.Test&#10;  @org.junit.jupiter.api.DisplayName(&quot;$DESCRIPTION$&quot;)&#10;  void $METHOD_NAME$() {&#10;    $END$&#10;    $BODY$&#10;  }" description="junit5 test method" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="&quot;test should be&quot;" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="camelCase(DESCRIPTION)" defaultValue="&quot;methodName&quot;" alwaysStopAt="true" />
     <variable name="BODY" expression="" defaultValue="&quot;org.junit.jupiter.api.Assertions.fail(\&quot;Not implemented\&quot;);&quot;" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
