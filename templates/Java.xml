@@ -7,11 +7,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="ptest" value="  @org.junit.jupiter.params.ParameterizedTest(name = &quot;[{index}] {argumentsWithNames}&quot;)&#10;  @org.junit.jupiter.api.DisplayName(&quot;$Description$&quot;)&#10;  @org.junit.jupiter.params.provider.ValueSource($TYPE$={$VALUE$})&#10;  void $METHOD_NAME$($ARG_TYPE$ $ARG_VALUE$) {&#10;    $END$&#10;    $BODY$&#10;  }" description="JUnit5 ParameterizeTest method" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <variable name="Description" expression="" defaultValue="&quot;Test name&quot;" alwaysStopAt="true" />
+  <template name="ptest" value="  @org.junit.jupiter.params.ParameterizedTest(name = &quot;[{index}] {argumentsWithNames}&quot;)&#10;  @org.junit.jupiter.api.DisplayName(&quot;$DESCRIPTION$&quot;)&#10;  @org.junit.jupiter.params.provider.ValueSource($TYPE$={$VALUE$})&#10;  void $METHOD_NAME$($ARG_TYPE$ $ARG_VALUE$) {&#10;    $END$&#10;    $BODY$&#10;  }" description="JUnit5 ParameterizeTest method" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="&quot;test should be&quot;" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="METHOD_NAME" expression="camelCase(Description)" defaultValue="&quot;testName&quot;" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="camelCase(DESCRIPTION)" defaultValue="&quot;testName&quot;" alwaysStopAt="true" />
     <variable name="ARG_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ARG_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="BODY" expression="" defaultValue="&quot;org.junit.jupiter.api.Assertions.fail(\&quot;Not implemented\&quot;);&quot;" alwaysStopAt="false" />
