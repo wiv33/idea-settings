@@ -486,6 +486,10 @@
           <option name="groupName" value="GoHiddenTemplate" />
           <option name="key" value="template_type_hint_comment" />
         </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_meth" />
+        </TemplateKey>
       </list>
     </option>
   </component>
