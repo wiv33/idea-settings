@@ -11,8 +11,8 @@
       <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping pattern="ms" type="Shell Script" />
-      <mapping pattern="TimelineTemplate" type="VTL" />
       <mapping pattern="TimelineTemplate.vm" type="VTL" />
+      <mapping pattern="TimelineTemplate" type="VTL" />
       <mapping pattern="hello" type="Vue.js" />
       <mapping ext="tml" type="YAML" />
     </extensionMap>
