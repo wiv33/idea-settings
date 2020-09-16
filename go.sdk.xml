@@ -3,6 +3,7 @@
     <sdk-path>
       <set>
         <option value="$USER_HOME$/sdk/go1.15" />
+        <option value="C:\Go" />
         <option value="C:\Users\user\sdk\go1.14.3" />
       </set>
     </sdk-path>
