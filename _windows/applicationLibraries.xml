@@ -15,13 +15,35 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 3.9 interpreter library">
+    <library name="Python 3.8 interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/python3.exe" />
+        <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/DLLs" />
+        <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0" />
+        <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0" />
+        <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/python_stubs/1122895722" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/python3.exe" />
+        <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/DLLs" />
+        <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0" />
+        <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0" />
+        <root url="file://C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.8_3.8.1776.0_x64__qbz5n2kfra8p0/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/python_stubs/1122895722" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
   </component>
