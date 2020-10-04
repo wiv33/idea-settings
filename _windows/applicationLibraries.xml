@@ -15,5 +15,14 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Python 3.9 interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/python3.exe" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/Microsoft/WindowsApps/python3.exe" />
+      </SOURCES>
+    </library>
   </component>
 </application>
