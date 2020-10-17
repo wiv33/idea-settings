@@ -16,5 +16,6 @@
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
     <entry key="go.run.processes.with.pty" value="false" />
+    <entry key="eslint.additional.file.extensions" value="svelte" />
   </component>
 </application>
