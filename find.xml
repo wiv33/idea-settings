@@ -12,7 +12,7 @@
     <mask>*.jsp</mask>
     <mask>*.gradle</mask>
     <mask>*.js</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
