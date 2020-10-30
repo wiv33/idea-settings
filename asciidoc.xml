@@ -1,6 +1,7 @@
 <application>
   <component name="AsciidocApplicationSettings">
-    <AsciiDocPreviewSettings DisabledInjectionsByLanguage="" KrokiUrl="" HideErrorsByLanguage="">
+    <option name="pluginVersion" value="0.31.36" />
+    <AsciiDocPreviewSettings KrokiUrl="" HideErrorsByLanguage="">
       <option name="hideErrorsByLanguage" value="" />
     </AsciiDocPreviewSettings>
   </component>
