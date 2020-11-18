@@ -1,8 +1,5 @@
 <application>
   <component name="GitToolBoxAppSettings2">
-    <option name="alwaysShowInlineBlameWhileDebugging" value="true" />
-    <option name="blameInlineDateType" value="RELATIVE" />
-    <option name="hideInlineBlameWhileDebugging" value="false" />
     <option name="previousVersionMigrated" value="true" />
     <option name="version" value="3" />
   </component>
