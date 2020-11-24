@@ -1,5 +1,10 @@
 <application>
   <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="JavaScript">
+        <added pattern="TimelineEditor.Utils.Enrich.ArticleDetails.replaceQuote(body,pattern,start)" />
+      </blacklist>
+    </blacklists>
     <option id="SHOW_FUNCTION_HINT" value="true" />
   </component>
 </application>
