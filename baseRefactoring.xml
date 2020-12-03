@@ -1,5 +1,6 @@
 <application>
   <component name="RefactoringSettings">
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
+    <option name="INTRODUCE_LOCAL_CREATE_VAR_TYPE" value="true" />
   </component>
 </application>
