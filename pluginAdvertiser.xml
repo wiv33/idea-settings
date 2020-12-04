@@ -1578,15 +1578,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.wadl">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.war">
           <value>
             <plugin>
@@ -2336,11 +2327,6 @@
                   <entry key="PythonConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Python" pluginName="Python" pluginId="Pythonid" />
-                    </value>
-                  </entry>
-                  <entry key="QuarkusRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Quarkus" pluginName="Quarkus" pluginId="com.intellij.quarkus" />
                     </value>
                   </entry>
                   <entry key="ReactNative">
