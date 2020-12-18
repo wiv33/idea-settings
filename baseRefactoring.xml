@@ -1,5 +1,6 @@
 <application>
   <component name="RefactoringSettings">
+    <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
   </component>
 </application>
