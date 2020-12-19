@@ -490,6 +490,18 @@
           <option name="groupName" value="GoHiddenTemplate" />
           <option name="key" value="go_lang_meth" />
         </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="test" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="bench" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="forbN" />
+        </TemplateKey>
       </list>
     </option>
   </component>
