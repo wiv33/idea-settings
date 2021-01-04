@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="d" type="AUTO_DETECTED" />
+      <mapping pattern="update_own.sh" type="AUTO_DETECTED" />
       <mapping pattern="1007_server_special" type="HTML" />
       <mapping pattern="extractKey" type="JavaScript" />
       <mapping pattern="test/first" type="JavaScript" />
