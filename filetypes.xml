@@ -6,17 +6,17 @@
       <mapping pattern="test/first" type="JavaScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="generate-command" type="PLAIN_TEXT" />
-      <mapping pattern="todo-list" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="generate-command" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping pattern="todo-list" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping pattern="ms" type="Shell Script" />
       <mapping pattern="TimelineTemplate.vm" type="VTL" />
       <mapping pattern="TimelineTemplate" type="VTL" />
-      <mapping pattern="hello" type="Vue.js" />
       <mapping ext="tml" type="YAML" />
+      <mapping pattern="hello" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
