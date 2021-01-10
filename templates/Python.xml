@@ -1,5 +1,15 @@
 <templateSet group="Python">
-  <template name="imml" value="import tensorflow as tf&#10;import pandas as pd&#10;import numpy as np&#10;import matplotlib.pylab as plt" description="import tf pd np" toReformat="false" toShortenFQNames="true">
+  <template name="imml" value="import tensorflow as tf&#10;import pandas as pd&#10;import numpy as np&#10;import matplotlib.pylab as plt&#10;import os&#10;import seaborn as sns" description="import tf pd np" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="imtf" value="import tensorflow as tf&#10;from tensorflow import keras&#10;from tensorflow.keras import layers, models, activations, optimizers, losses, utils&#10;from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint&#10;&#10;import numpy as np&#10;import pandas as pd" description="import library in tensorflow" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="xgb" value="import xgboost as xgb   " description="XGBoosting" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>

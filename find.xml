@@ -7,10 +7,13 @@
     <mask>*.html</mask>
     <mask>*.properties</mask>
     <mask>*.XML</mask>
-    <mask>*.jsp</mask>
     <mask>*.gradle</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.vm</mask>
+    <mask>*.vue</mask>
     <mask>*.java</mask>
+    <mask>*.jsp</mask>
+    <mask>*.js</mask>
+    <mask>*.py</mask>
   </component>
 </application>
