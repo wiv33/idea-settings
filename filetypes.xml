@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="d" type="AUTO_DETECTED" />
-      <mapping pattern="update_own.sh" type="AUTO_DETECTED" />
       <mapping pattern="1007_server_special" type="HTML" />
       <mapping pattern="extractKey" type="JavaScript" />
       <mapping pattern="test/first" type="JavaScript" />
@@ -17,10 +15,9 @@
       <mapping pattern="ms" type="Shell Script" />
       <mapping pattern="TimelineTemplate.vm" type="VTL" />
       <mapping pattern="TimelineTemplate" type="VTL" />
+      <mapping pattern="hello" type="Vue.js" />
       <mapping ext="tml" type="YAML" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
