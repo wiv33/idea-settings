@@ -9,6 +9,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="generate-command" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="todo-list" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
