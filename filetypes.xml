@@ -9,7 +9,9 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="generate-command" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="todo-list" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping pattern="ms" type="Shell Script" />
@@ -17,7 +19,9 @@
       <mapping pattern="TimelineTemplate" type="VTL" />
       <mapping pattern="hello" type="Vue.js" />
       <mapping ext="tml" type="YAML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
