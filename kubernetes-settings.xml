@@ -1,0 +1,5 @@
+<application>
+  <component name="KubernetesApiSettings">
+    <option name="shellCommand" value="/bin/zsh" />
+  </component>
+</application>
