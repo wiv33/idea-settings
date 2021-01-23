@@ -1,0 +1,13 @@
+<application>
+  <component name="SparkMonitoringSettings">
+    <option name="configs">
+      <map>
+        <entry key="Spark monitoring connection@SparkMonitoringConnections@3938954335608694743">
+          <value>
+            <SparkConfig />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
