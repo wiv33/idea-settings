@@ -264,9 +264,8 @@
         <entry key="*.config">
           <value>
             <plugin>
-              <option name="myPluginId" value="Lombook Plugin" />
-              <option name="myPluginName" value="Lombok" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="de.victorsaar.intellij.aem" />
+              <option name="myPluginName" value="AEM Support" />
             </plugin>
           </value>
         </entry>
@@ -1289,6 +1288,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.name">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="de.victorsaar.intellij.aem" />
+              <option name="myPluginName" value="de.victorsaar.intellij.aem" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.nodemonignore">
           <value>
             <plugin>
@@ -2154,6 +2161,14 @@
             <plugin>
               <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
               <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.vlt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="de.victorsaar.intellij.aem" />
+              <option name="myPluginName" value="AEM Support" />
             </plugin>
           </value>
         </entry>
