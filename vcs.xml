@@ -58,9 +58,13 @@
           <option name="url" value="http://10.50.23.144:28080/jam/grape.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.50.23.144:28080/wcms/prada.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\dev\projects" />
+    <option name="cloneParentDir" value="C:\dev\projects\wcms" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
