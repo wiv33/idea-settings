@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="1007_server_special" type="HTML" />
       <mapping pattern="extractKey" type="JavaScript" />
       <mapping pattern="test/first" type="JavaScript" />
