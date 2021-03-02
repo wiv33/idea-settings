@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="1007_server_special" type="HTML" />
       <mapping pattern="extractKey" type="JavaScript" />
       <mapping pattern="test/first" type="JavaScript" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="generate-command" type="PLAIN_TEXT" />
