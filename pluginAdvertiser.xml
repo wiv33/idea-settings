@@ -1682,6 +1682,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.r">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="R4Intellij" />
+              <option name="myPluginName" value="R Language for IntelliJ" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.regexp">
           <value>
             <plugin>
@@ -1709,6 +1717,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.rmd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="R4Intellij" />
+              <option name="myPluginName" value="R Language for IntelliJ" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.rnc">
           <value>
             <plugin>
@@ -1732,6 +1748,22 @@
             <plugin>
               <option name="myPluginId" value="org.intellij.scala" />
               <option name="myPluginName" value="org.intellij.scala" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rpluginskeletonfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="R4Intellij" />
+              <option name="myPluginName" value="R Language for IntelliJ" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rprofile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="R4Intellij" />
+              <option name="myPluginName" value="R Language for IntelliJ" />
             </plugin>
           </value>
         </entry>
