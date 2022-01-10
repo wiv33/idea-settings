@@ -3,5 +3,8 @@
     <account id="6765794a-bb05-4271-9911-9b4dce45a040" name="wiv33">
       <server host="github.com" />
     </account>
+    <account id="13c07fe0-7720-4f5e-b7e1-da6432858e6f" name="psawesome">
+      <server useHttp="false" host="github.nhnent.com" />
+    </account>
   </component>
 </application>
